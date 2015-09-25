@@ -1,0 +1,81 @@
+@import "../bower_components/sanitize-css/sanitize.scss";
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:700);
+
+body {
+  background-color: #323A41;
+  text-align: center;
+}
+
+nav {
+  width: 100%;
+  background-color: #272D33;
+  padding: 16px 0;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a, a:visited {
+  display: block;
+  margin: 0 16px;
+  text-transform: uppercase;
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #AAA;
+}
+
+nav ul li a:hover, a:active {
+  color: #FFF;
+}
+
+header {
+  max-width: 960px;
+  text-align: center;
+  margin: 58px auto 68px auto;
+}
+
+header h1 {
+  text-transform: uppercase;
+  color: #FFF;
+  font-family: Raleway;
+  font-size: 46px;
+}
+
+header h3 {
+  text-transform: uppercase;
+  color: #AAA;
+  font-family: Raleway;
+  font-size: 15px;
+}
+
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  background-color: #FFF;
+}
+
+main article {
+  text-align: left;
+  margin: 0 20%;
+  padding: 20px 0px;
+}
+
+main article h2 {
+  margin: 20px 0;
+}
+
+main article p {
+  margin: 20px 0;
+}
