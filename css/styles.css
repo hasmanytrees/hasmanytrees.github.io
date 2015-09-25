@@ -200,7 +200,7 @@ nav ul {
 nav ul li {
   display: inline-block; }
 
-nav ul li a {
+nav ul li a, a:visited {
   display: block;
   margin: 0 16px;
   text-transform: uppercase;
@@ -210,13 +210,13 @@ nav ul li a {
   letter-spacing: 1px;
   color: #AAA; }
 
-nav ul li a:active, a:hover {
+nav ul li a:hover, a:active {
   color: #FFF; }
 
 header {
   max-width: 960px;
   text-align: center;
-  margin: 32px auto; }
+  margin: 58px auto 68px auto; }
 
 header h1 {
   text-transform: uppercase;
