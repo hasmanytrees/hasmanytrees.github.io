@@ -1,0 +1,249 @@
+/*! sanitize.css | CC0 Public Domain | github.com/jonathantneal/sanitize.css */
+/*
+ * Normalization
+ */
+@import url(https://fonts.googleapis.com/css?family=Raleway:700);
+:root {
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%; }
+
+audio:not([controls]) {
+  display: none; }
+
+button {
+  overflow: visible; }
+
+details {
+  display: block; }
+
+input[type="number"] {
+  width: auto; }
+input[type="search"] {
+  -webkit-appearance: textfield; }
+  input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none; }
+
+main {
+  display: block; }
+
+summary {
+  display: block; }
+
+pre {
+  overflow: auto; }
+
+progress {
+  display: inline-block; }
+
+small {
+  font-size: 75%; }
+
+template {
+  display: none; }
+
+textarea {
+  overflow: auto; }
+
+[hidden] {
+  display: none; }
+
+/*
+ * Universal inheritance
+ */
+*,
+::before,
+::after {
+  box-sizing: inherit; }
+
+* {
+  background-color: inherit;
+  font-size: inherit;
+  line-height: inherit; }
+
+::before,
+::after {
+  text-decoration: inherit;
+  vertical-align: inherit; }
+
+/*
+ * Opinionated defaults
+ */
+*,
+::before,
+::after {
+  border-style: solid;
+  border-width: 0; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+:root {
+  box-sizing: border-box;
+  cursor: default;
+  font: 16px/1.5 sans-serif;
+  text-rendering: optimizeLegibility; }
+
+html {
+  background-color: #FFFFFF;
+  color: #000000; }
+
+a {
+  text-decoration: none; }
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle; }
+
+button,
+input,
+select,
+textarea {
+  background-color: transparent; }
+
+button,
+input,
+select,
+textarea {
+  color: inherit;
+  font-family: inherit;
+  font-style: inherit;
+  font-weight: inherit; }
+
+button,
+[type="button"],
+[type="date"],
+[type="datetime"],
+[type="datetime-local"],
+[type="email"],
+[type="month"],
+[type="number"],
+[type="password"],
+[type="reset"],
+[type="search"],
+[type="submit"],
+[type="tel"],
+[type="text"],
+[type="time"],
+[type="url"],
+[type="week"],
+select,
+textarea {
+  min-height: 1.5em; }
+
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace; }
+
+nav ol,
+nav ul {
+  list-style: none; }
+
+select {
+  -moz-appearance: none;
+  -webkit-appearance: none; }
+  select::-ms-expand {
+    display: none; }
+  select::-ms-value {
+    color: currentColor; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+textarea {
+  resize: vertical; }
+
+::selection {
+  background-color: #B3D4FC;
+  text-shadow: none; }
+
+[aria-busy="true"] {
+  cursor: progress; }
+
+[aria-controls] {
+  cursor: pointer; }
+
+[aria-disabled] {
+  cursor: default; }
+
+[hidden][aria-hidden="false"] {
+  clip: rect(0 0 0 0);
+  display: inherit;
+  position: absolute; }
+  [hidden][aria-hidden="false"]:focus {
+    clip: auto; }
+
+body {
+  background-color: #323A41;
+  text-align: center; }
+
+nav {
+  width: 100%;
+  background-color: #272D33;
+  padding: 16px 0;
+  text-align: center; }
+
+nav ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0; }
+
+nav ul li {
+  display: inline-block; }
+
+nav ul li a {
+  display: block;
+  margin: 0 16px;
+  text-transform: uppercase;
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #AAA; }
+
+nav ul li a:active, a:hover {
+  color: #FFF; }
+
+header {
+  max-width: 960px;
+  text-align: center;
+  margin: 32px auto; }
+
+header h1 {
+  text-transform: uppercase;
+  color: #FFF;
+  font-family: Raleway;
+  font-size: 46px; }
+
+header h3 {
+  text-transform: uppercase;
+  color: #AAA;
+  font-family: Raleway;
+  font-size: 15px; }
+
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  background-color: #FFF; }
+
+main article {
+  text-align: left;
+  margin: 0 20%;
+  padding: 20px 0px; }
+
+main article h2 {
+  margin: 20px 0; }
+
+main article p {
+  margin: 20px 0; }
+
+/*# sourceMappingURL=styles.css.map */
