@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/hasmanytrees
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://hasmanytrees.com
+  * I am hasmanytrees (https://keybase.io/hasmanytrees) on keybase.
+  * I have a public key ASC2VOa_d9RjgYEeM8UuYKfMwyYEL3ZZsojTWI3SBAfl-go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a015a49f2377ca27b42e912a7f8305a86189c7452ae386edd929a968e5abea1f0a",
+      "host": "keybase.io",
+      "kid": "0120b654e6bf77d46381811e33c52e60a7ccc326042f7659b288d3588dd20407e5fa0a",
+      "uid": "56a49379a9139779710ca4d16603a719",
+      "username": "hasmanytrees"
+    },
+    "merkle_root": {
+      "ctime": 1515011846,
+      "hash": "fd61b26415d68f2655c89286b4f2b09d095a830179767c29cb1470a08d2ba5043d99ffeb9d4c35406a21f935ac89c743dc70d7e54bde13c24fc74418249b5725",
+      "hash_meta": "5b801a0f9123126afdf91621c9d5d7735611e85f5ce8d8ec959ebd3e89d08e44",
+      "seqno": 1883856
+    },
+    "service": {
+      "hostname": "hasmanytrees.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515011872,
+  "expire_in": 504576000,
+  "prev": "7955882a106c481ca8a01ee89cc99f630238f31ec336319af49839c8e57628c8",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtlTmv3fUY4GBHjPFLmCnzMMmBC92WbKI01iN0gQH5foKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTAxNWE0OWYyMzc3Y2EyN2I0MmU5MTJhN2Y4MzA1YTg2MTg5Yzc0NTJhZTM4NmVkZDkyOWE5NjhlNWFiZWExZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjY1NGU2YmY3N2Q0NjM4MTgxMWUzM2M1MmU2MGE3Y2NjMzI2MDQyZjc2NTliMjg4ZDM1ODhkZDIwNDA3ZTVmYTBhIiwidWlkIjoiNTZhNDkzNzlhOTEzOTc3OTcxMGNhNGQxNjYwM2E3MTkiLCJ1c2VybmFtZSI6Imhhc21hbnl0cmVlcyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNTAxMTg0NiwiaGFzaCI6ImZkNjFiMjY0MTVkNjhmMjY1NWM4OTI4NmI0ZjJiMDlkMDk1YTgzMDE3OTc2N2MyOWNiMTQ3MGEwOGQyYmE1MDQzZDk5ZmZlYjlkNGMzNTQwNmEyMWY5MzVhYzg5Yzc0M2RjNzBkN2U1NGJkZTEzYzI0ZmM3NDQxODI0OWI1NzI1IiwiaGFzaF9tZXRhIjoiNWI4MDFhMGY5MTIzMTI2YWZkZjkxNjIxYzlkNWQ3NzM1NjExZTg1ZjVjZThkOGVjOTU5ZWJkM2U4OWQwOGU0NCIsInNlcW5vIjoxODgzODU2fSwic2VydmljZSI6eyJob3N0bmFtZSI6Imhhc21hbnl0cmVlcy5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE1MDExODcyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6Ijc5NTU4ODJhMTA2YzQ4MWNhOGEwMWVlODljYzk5ZjYzMDIzOGYzMWVjMzM2MzE5YWY0OTgzOWM4ZTU3NjI4YzgiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAseS2ejlfSG6iDiYz1qqGSLDieye+/gkq1llLq5VTR7t9/HLtI3Q1ivBwzd0d8AoIf2rhtzsvRBgSbOXmL4BPBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIt5J8lDDlEQ69ET9czMo7aj7KEDivOsvQLdWkd2kpzto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hasmanytrees
+
+==================================================================
